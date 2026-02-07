@@ -5,11 +5,11 @@
 }
 
 header{
-    background:linear-gradient(to right,#e01a1ad8,#eb61eb);
+    background:linear-gradient(to right,#a99ed3,#21d2d8);
     padding:15px 20px;
     color:white;
 }
-
+  
 body{
     font-family: Arial,  sans-serif;
     background-image: url(bg.avif);
